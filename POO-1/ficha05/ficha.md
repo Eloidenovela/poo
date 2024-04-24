@@ -30,17 +30,17 @@ para a esquerda).
 27. Escreva um programa Java que verifique se todos os elementos de um array de inteiros são números primos.
 28. Escreva um programa Java que verifique se um array de inteiros é simétrico (ou seja, pode ser dividido em duas partes iguais que são o espelho uma da outra).
 29. Execute as seguintes tarefas para um array chamado tabela:
---a. Declare um array com elementos ARRAY_SIZE do tipo double e inicialize os elementos
+a. Declare um array com elementos ARRAY_SIZE do tipo double e inicialize os elementos
 para 0.
---b. Quantos elementos o array contém?
---c. Use uma instrução for para inicializar cada elemento do array com a soma de seus
+b. Quantos elementos o array contém?
+c. Use uma instrução for para inicializar cada elemento do array com a soma de seus
 índices. Suponha que as variáveis inteiras x e y sejam declaradas como variáveis de
 controle.
 31. Execute as seguintes tarefas para uma matriz chamada frações:
---a. Declare uma constante ARRAY_SIZE que seja inicializada com 10.
---b. Declare um array com elementos ARRAY_SIZE do tipo double e inicialize os elementos
+a. Declare uma constante ARRAY_SIZE que seja inicializada com 10.
+b. Declare um array com elementos ARRAY_SIZE do tipo double e inicialize os elementos
 para 0.
---c. Consulte o elemento 4 da matriz.
---d. Atribua o valor 1,667 ao elemento 9 da matriz
---e. Atribua o valor 3,333 ao elemento 6 da matriz.
---f. Some todos os elementos do array, usando uma instrução for. Declare a variável inteir _x_ como uma variável de controle para o loop. 2
+c. Consulte o elemento 4 da matriz.
+d. Atribua o valor 1,667 ao elemento 9 da matriz
+e. Atribua o valor 3,333 ao elemento 6 da matriz.
+f. Some todos os elementos do array, usando uma instrução for. Declare a variável inteir _x_ como uma variável de controle para o loop. 2
