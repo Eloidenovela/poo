@@ -1,4 +1,6 @@
-package ficha03;
+// package ficha03;
+
+// Escreva um programa Java que imprime os números pares de 1 a 10.
 
 public class Exer0202 {
     public static void main(String[] args) {

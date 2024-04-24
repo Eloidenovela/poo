@@ -1,4 +1,9 @@
-package ficha03;
+// package ficha03;
+
+/*
+    Escreva um programa Java que lê um número inteiro e imprime a soma dos números de 1 a esse
+    número.
+*/  
 
 import java.util.Scanner;
 

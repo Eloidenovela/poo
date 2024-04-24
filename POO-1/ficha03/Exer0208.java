@@ -1,10 +1,15 @@
-package ficha03;
+// package ficha03;
+
+// Escreva um programa Java que lê um número inteiro e verifica se ele é primo.
 
 import java.util.Scanner;
 
 public class Exer0208 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("Digite um numero: ");
+        int numero = input.nextInt();
+        System.out.println((ehPrimo(numero)) ? "Primo": "Nao Primo");
 
         // int div = 0;
         // int n = 123;
@@ -37,6 +42,5 @@ public class Exer0208 {
         }
 
         return true;
-    }
-    
+    }    
 }

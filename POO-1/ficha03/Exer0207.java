@@ -1,4 +1,9 @@
-package ficha03;
+// package ficha03;
+
+/*
+ * Escreva um programa Java que lê um número inteiro e imprime a sequência de Fibonacci até esse
+ * número.
+ */
 
 import java.util.Scanner;
 

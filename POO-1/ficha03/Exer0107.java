@@ -1,4 +1,7 @@
-package ficha03;
+// package ficha03;
+
+// Escreva um programa Java que lê o valor de três produtos e informa qual é o mais barato.
+// nao terminado. preguica
 import java.util.Scanner;
 public class Exer0107 {
     /**

@@ -1,4 +1,6 @@
-package ficha03;
+// package ficha03;
+
+// Escreva um programa Java que lê três números digitados pelo usuário e informa qual é o maior.
 
 import java.util.Scanner;
 
@@ -18,6 +20,5 @@ public class Exer0102 {
 
         System.out.println("O maior digitado eh: " + maior);
         input.close();
-    }
-    
+    }    
 }

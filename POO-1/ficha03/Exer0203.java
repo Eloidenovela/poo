@@ -1,4 +1,6 @@
-package ficha03;
+// package ficha03;
+
+// Escreva um programa Java que lê um número inteiro e imprime a tabuada desse número.
 
 import java.util.Scanner;
 

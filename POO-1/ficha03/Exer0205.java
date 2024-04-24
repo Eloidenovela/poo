@@ -1,6 +1,11 @@
-package ficha03;
+// package ficha03;
 
-import java.util.Scanner;
+/*
+ *  Escreva um programa Java que lê um número inteiro e imprime a média dos números de 1 a esse
+ *  número.
+ */
+
+ import java.util.Scanner;
 
 public class Exer0205 {
     public static void main(String[] args) {
