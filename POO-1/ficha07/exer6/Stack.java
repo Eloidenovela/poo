@@ -8,8 +8,8 @@ public class Stack {
     private int[] array;
     private int numeroDeElementos;
 
-    public Stack() {
-        array = new int[100];
+    public Stack(int capacity) {
+        array = new int[capacity];
         numeroDeElementos = 0;
     }
 
